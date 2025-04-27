@@ -1,4 +1,6 @@
-Sesiones de prácticas realizadas por mi para Estructuras de datos de la Universidad de Jaén durante 2023
+Sesiones de prácticas realizadas por mi para Estructuras de datos de la Universidad de Jaén durante 2023. 
+
+Todas las practicas estan realizadas con C++ y documentadas automáticamente con DOXYGEN a través de comentarios.
 
 |Práctica|Nota final|Comentario|
 |--|--|--|
