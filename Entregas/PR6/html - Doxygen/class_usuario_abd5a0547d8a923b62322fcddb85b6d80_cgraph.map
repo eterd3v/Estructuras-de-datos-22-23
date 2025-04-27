@@ -1,0 +1,4 @@
+<map id="Usuario::mostrar" name="Usuario::mostrar">
+<area shape="rect" id="node1" title="Función que muestra por consola la información de un Usuario." alt="" coords="5,5,124,32"/>
+<area shape="rect" id="node2" href="$class_usuario.html#a8d25bda12e6bb966cc08274b1d6db627" title="Método para actualizar la popularidad del Usuario." alt="" coords="172,5,371,32"/>
+</map>

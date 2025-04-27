@@ -1,0 +1,6 @@
+<map id="Usuario::meGustaImagen" name="Usuario::meGustaImagen">
+<area shape="rect" id="node1" title="Método para dar un &#39;Me gusta&#39; a una Imagen. Provoca excepción si la Imagen contiene a al mismo usuari..." alt="" coords="5,56,175,83"/>
+<area shape="rect" id="node2" href="$class_usuario.html#a95c1a054f4cf69dfe4bd8d91e380dff0" title="Método para conseguir una Imagen del Usuario, dada una Etiqueta." alt="" coords="223,5,377,32"/>
+<area shape="rect" id="node3" href="$class_imagen.html#ada12145018eb081a5d58721622e7ee30" title=" " alt="" coords="250,56,350,83"/>
+<area shape="rect" id="node4" href="$class_imagen.html#a6dbf60f76988b2f2c4f5abcc763f8881" title="Función para aumentar en 1 los likes de la Imagen." alt="" coords="235,107,365,133"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Usuario::anadirEtiquetaImagen" name="Usuario::anadirEtiquetaImagen">
+<area shape="rect" id="node1" title="Método para añadir a una Imagen preexistente en Usuario, una Etiqueta." alt="" coords="5,56,204,83"/>
+<area shape="rect" id="node2" href="$class_imagen.html#a1ce7b23804c4e2a5894b833f881ecf2c" title="Método para añadir una Etiqueta a la Imagen." alt="" coords="273,5,427,32"/>
+<area shape="rect" id="node3" href="$class_usuario.html#a95c1a054f4cf69dfe4bd8d91e380dff0" title="Método para conseguir una Imagen del Usuario, dada una Etiqueta." alt="" coords="273,56,427,83"/>
+<area shape="rect" id="node4" href="$class_image_book.html#ad2b73414f0432c4ffe9723e2ef33b50b" title="Método que busca una Etiqueta guardada en ImageBook." alt="" coords="252,107,448,133"/>
+</map>

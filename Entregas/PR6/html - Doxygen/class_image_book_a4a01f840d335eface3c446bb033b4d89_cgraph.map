@@ -1,0 +1,16 @@
+<map id="ImageBook::buscarUsuarLugar" name="ImageBook::buscarUsuarLugar">
+<area shape="rect" id="node1" title="Método para buscar Usuarios que han tomado al menos una foto en un Rango de coordenadas." alt="" coords="5,233,205,260"/>
+<area shape="rect" id="node2" href="$class_malla_regular.html#a90cc4ce4a0106305a11effdbf67e4f65" title="Método para conseguir el Rango total de la MallaRegular." alt="" coords="253,208,444,235"/>
+<area shape="rect" id="node3" href="$class_rango.html#a9970d453e13077c026125754bf97233f" title="Método para conseguir la intersección de dos objeto Rango. En caso de no tener espacio en común saca ..." alt="" coords="280,259,417,285"/>
+<area shape="rect" id="node4" href="$class_rango.html#a137d37cb88ee6123878f30498b46226f" title="Método para comprobar si unas coordenas UTM pertenecen al rango (menor o igual)" alt="" coords="493,208,609,235"/>
+<area shape="rect" id="node5" href="$class_u_t_m.html#a6d39f914244391ad96564ab251af0764" title=" " alt="" coords="663,81,778,108"/>
+<area shape="rect" id="node6" href="$class_u_t_m.html#a25f69f28621fea413dc31c79ce69585e" title=" " alt="" coords="659,309,783,336"/>
+<area shape="rect" id="node7" href="$class_rango.html#ac52d00133146a5a6c9eeba9728ad43ef" title=" " alt="" coords="496,157,607,184"/>
+<area shape="rect" id="node8" href="$class_rango.html#a7e5615e3aec84efb4be7cc4709514913" title=" " alt="" coords="493,411,610,437"/>
+<area shape="rect" id="node9" href="$class_rango.html#a91b83b4617f7f74f4c23d36792fdce5a" title=" " alt="" coords="492,5,611,32"/>
+<area shape="rect" id="node10" href="$class_rango.html#abf5108dd95007b9ddfb06ea6a5bafb98" title="Setters y getters de los atributos." alt="" coords="498,309,605,336"/>
+<area shape="rect" id="node11" href="$class_rango.html#a2dd5e7fd636cca10f2ffc1775c41fa8f" title="Getters directos de coordenadas." alt="" coords="495,360,608,387"/>
+<area shape="rect" id="node12" href="$class_rango.html#a886336e6609cb4673adb4d9b67c829f1" title=" " alt="" coords="494,56,609,83"/>
+<area shape="rect" id="node13" href="$class_rango.html#a55707fc40ac52290b753edd21d2d5ec1" title=" " alt="" coords="496,461,607,488"/>
+<area shape="rect" id="node14" href="$class_rango.html#a74ee5fb1284cd53da0fdf92df8747b4c" title=" " alt="" coords="498,512,605,539"/>
+</map>

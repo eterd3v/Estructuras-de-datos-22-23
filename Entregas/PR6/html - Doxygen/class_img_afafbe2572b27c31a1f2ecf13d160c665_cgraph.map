@@ -1,0 +1,17 @@
+<map id="Img::pintarRecuadro" name="Img::pintarRecuadro">
+<area shape="rect" id="node1" title="Método para dibujar una recuadro dentro de un rango." alt="" coords="5,259,144,285"/>
+<area shape="rect" id="node2" href="$class_r_g_b_color.html#ad50662da54d703647e9bd7b944d730e3" title=" " alt="" coords="205,5,317,32"/>
+<area shape="rect" id="node3" href="$class_rango.html#a137d37cb88ee6123878f30498b46226f" title="Método para comprobar si unas coordenas UTM pertenecen al rango (menor o igual)" alt="" coords="203,208,319,235"/>
+<area shape="rect" id="node6" href="$class_rango.html#aa0d4dd2134e17f10811c0eaae98eafdf" title="Método para dar la distancia entre max y min del eje Y." alt="" coords="207,56,316,83"/>
+<area shape="rect" id="node7" href="$class_rango.html#a5969c2943ee08d7748f2a620f4bfe6e3" title="Método para dar la distancia entre max y min del eje X." alt="" coords="203,259,319,285"/>
+<area shape="rect" id="node8" href="$class_rango.html#a7e5615e3aec84efb4be7cc4709514913" title=" " alt="" coords="203,309,320,336"/>
+<area shape="rect" id="node9" href="$class_rango.html#a91b83b4617f7f74f4c23d36792fdce5a" title=" " alt="" coords="202,107,321,133"/>
+<area shape="rect" id="node10" href="$class_rango.html#a2dd5e7fd636cca10f2ffc1775c41fa8f" title="Getters directos de coordenadas." alt="" coords="205,360,318,387"/>
+<area shape="rect" id="node11" href="$class_rango.html#a886336e6609cb4673adb4d9b67c829f1" title=" " alt="" coords="204,157,319,184"/>
+<area shape="rect" id="node12" href="$class_img.html#a92fca57792bf4af4bfd98734d5ce7799" title=" " alt="" coords="192,411,331,437"/>
+<area shape="rect" id="node14" href="$class_r_g_b_color.html#a3b761e106a764b1bda23346e19a0bbc3" title=" " alt="" coords="207,461,316,488"/>
+<area shape="rect" id="node15" href="$class_r_g_b_color.html#abef01e4683e922e6d8162362ee5c9ba7" title=" " alt="" coords="202,512,321,539"/>
+<area shape="rect" id="node4" href="$class_u_t_m.html#a6d39f914244391ad96564ab251af0764" title=" " alt="" coords="383,132,498,159"/>
+<area shape="rect" id="node5" href="$class_u_t_m.html#a25f69f28621fea413dc31c79ce69585e" title=" " alt="" coords="379,284,503,311"/>
+<area shape="rect" id="node13" href="$class_img.html#ad2a4d4b20883d77240e565b23a1238e6" title=" " alt="" coords="385,411,497,437"/>
+</map>

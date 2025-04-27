@@ -1,0 +1,10 @@
+<map id="Img::pintarElipse" name="Img::pintarElipse">
+<area shape="rect" id="node1" title="Método para dibujar una elipse dentro de un rango." alt="" coords="5,176,124,203"/>
+<area shape="rect" id="node2" href="$class_u_t_m.html#a3a3ac925e0c1d2d463551d3ede62685d" title="Método para asignar la longitud y la latitud de coordenadas UTM." alt="" coords="184,5,283,32"/>
+<area shape="rect" id="node3" href="$class_rango.html#aa0d4dd2134e17f10811c0eaae98eafdf" title="Método para dar la distancia entre max y min del eje Y." alt="" coords="346,107,455,133"/>
+<area shape="rect" id="node4" href="$class_u_t_m.html#a6d39f914244391ad96564ab251af0764" title=" " alt="" coords="511,107,626,133"/>
+<area shape="rect" id="node5" href="$class_rango.html#a5969c2943ee08d7748f2a620f4bfe6e3" title="Método para dar la distancia entre max y min del eje X." alt="" coords="343,259,459,285"/>
+<area shape="rect" id="node6" href="$class_u_t_m.html#a25f69f28621fea413dc31c79ce69585e" title=" " alt="" coords="507,259,631,285"/>
+<area shape="rect" id="node7" href="$class_rango.html#ab26a8b2d12dedd6ac7b2c802d07c930c" title=" " alt="" coords="172,176,295,203"/>
+<area shape="rect" id="node8" href="$class_img.html#ad2a4d4b20883d77240e565b23a1238e6" title=" " alt="" coords="177,360,289,387"/>
+</map>

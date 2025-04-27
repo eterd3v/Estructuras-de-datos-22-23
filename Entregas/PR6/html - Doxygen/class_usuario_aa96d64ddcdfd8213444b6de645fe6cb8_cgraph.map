@@ -1,0 +1,4 @@
+<map id="Usuario::likeAutomatico" name="Usuario::likeAutomatico">
+<area shape="rect" id="node1" title="Método para dar un like automáticamente a toda Imagen con una Etiqueta dada." alt="" coords="5,5,165,32"/>
+<area shape="rect" id="node2" href="$class_image_book.html#aabacd76b211965fab12fd0a4b7772d17" title="Método para conseguir Usuarios que contengan al menos una etiqueta específica en sus Imágenes." alt="" coords="213,5,415,32"/>
+</map>

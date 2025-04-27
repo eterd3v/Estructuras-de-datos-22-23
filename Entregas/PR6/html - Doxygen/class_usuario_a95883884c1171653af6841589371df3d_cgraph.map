@@ -1,0 +1,4 @@
+<map id="Usuario::getImagenesEtiqueta" name="Usuario::getImagenesEtiqueta">
+<area shape="rect" id="node1" title="Método para conseguir todas las imágenes con la etiqueta dada de todos los usuarios del sistema." alt="" coords="5,5,201,32"/>
+<area shape="rect" id="node2" href="$class_image_book.html#aabacd76b211965fab12fd0a4b7772d17" title="Método para conseguir Usuarios que contengan al menos una etiqueta específica en sus Imágenes." alt="" coords="249,5,451,32"/>
+</map>

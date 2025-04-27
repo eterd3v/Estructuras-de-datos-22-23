@@ -1,0 +1,15 @@
+<map id="Img::pintarPixel" name="Img::pintarPixel">
+<area shape="rect" id="node1" title="Método para dibujar un pixel dentro de un rango." alt="" coords="5,284,117,311"/>
+<area shape="rect" id="node2" href="$class_r_g_b_color.html#ad50662da54d703647e9bd7b944d730e3" title=" " alt="" coords="187,5,299,32"/>
+<area shape="rect" id="node3" href="$class_rango.html#a137d37cb88ee6123878f30498b46226f" title="Método para comprobar si unas coordenas UTM pertenecen al rango (menor o igual)" alt="" coords="185,208,301,235"/>
+<area shape="rect" id="node4" href="$class_u_t_m.html#a6d39f914244391ad96564ab251af0764" title=" " alt="" coords="373,132,487,159"/>
+<area shape="rect" id="node5" href="$class_u_t_m.html#a25f69f28621fea413dc31c79ce69585e" title=" " alt="" coords="368,284,492,311"/>
+<area shape="rect" id="node6" href="$class_rango.html#aa0d4dd2134e17f10811c0eaae98eafdf" title="Método para dar la distancia entre max y min del eje Y." alt="" coords="188,107,297,133"/>
+<area shape="rect" id="node7" href="$class_rango.html#a5969c2943ee08d7748f2a620f4bfe6e3" title="Método para dar la distancia entre max y min del eje X." alt="" coords="185,309,301,336"/>
+<area shape="rect" id="node8" href="$class_rango.html#a2dd5e7fd636cca10f2ffc1775c41fa8f" title="Getters directos de coordenadas." alt="" coords="186,360,299,387"/>
+<area shape="rect" id="node9" href="$class_rango.html#a886336e6609cb4673adb4d9b67c829f1" title=" " alt="" coords="185,157,300,184"/>
+<area shape="rect" id="node10" href="$class_img.html#ad2a4d4b20883d77240e565b23a1238e6" title=" " alt="" coords="374,436,486,463"/>
+<area shape="rect" id="node11" href="$class_img.html#ae0db29879516a57343bb1033565477d8" title=" " alt="" coords="165,461,320,488"/>
+<area shape="rect" id="node12" href="$class_r_g_b_color.html#a3b761e106a764b1bda23346e19a0bbc3" title=" " alt="" coords="188,512,297,539"/>
+<area shape="rect" id="node13" href="$class_r_g_b_color.html#abef01e4683e922e6d8162362ee5c9ba7" title=" " alt="" coords="183,563,302,589"/>
+</map>

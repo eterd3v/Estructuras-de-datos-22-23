@@ -1,0 +1,8 @@
+<map id="Rango::modificar" name="Rango::modificar">
+<area shape="rect" id="node1" title="Método para modificar dado una distancia todas las coordenadas del Rango desde los vértices...." alt="" coords="5,81,124,108"/>
+<area shape="rect" id="node2" href="$class_rango.html#a0b06ba1e5c6684beabd9c2359e89a318" title="Método para actualizar que UTM es el máximo y cuál es el mínimo." alt="" coords="172,31,295,57"/>
+<area shape="rect" id="node5" href="$class_u_t_m.html#af022e823ac874a3e93a2d31dff930ee4" title="Método para aumentar tanto la longitud y la latitud en una cantidad especificada." alt="" coords="178,81,289,108"/>
+<area shape="rect" id="node6" href="$class_u_t_m.html#a563b8543d97fe64f17e3731af885ce13" title="Método para disminuir tanto la longitud y la latitud en una cantidad especificada." alt="" coords="179,132,288,159"/>
+<area shape="rect" id="node3" href="$class_u_t_m.html#a6d39f914244391ad96564ab251af0764" title=" " alt="" coords="347,5,462,32"/>
+<area shape="rect" id="node4" href="$class_u_t_m.html#a25f69f28621fea413dc31c79ce69585e" title=" " alt="" coords="343,56,467,83"/>
+</map>

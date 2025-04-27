@@ -1,0 +1,6 @@
+<map id="Usuario::imagenEnZona" name="Usuario::imagenEnZona">
+<area shape="rect" id="node1" title="Función para conseguir las imágenes del Usuario tomadas en una zona específica." alt="" coords="5,31,165,57"/>
+<area shape="rect" id="node2" href="$class_rango.html#a137d37cb88ee6123878f30498b46226f" title="Método para comprobar si unas coordenas UTM pertenecen al rango (menor o igual)" alt="" coords="213,31,329,57"/>
+<area shape="rect" id="node3" href="$class_u_t_m.html#a6d39f914244391ad96564ab251af0764" title=" " alt="" coords="382,5,497,32"/>
+<area shape="rect" id="node4" href="$class_u_t_m.html#a25f69f28621fea413dc31c79ce69585e" title=" " alt="" coords="377,56,501,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Usuario::buscarUsuariosEtiq" name="Usuario::buscarUsuariosEtiq">
+<area shape="rect" id="node1" title="Método para buscar los usuarios a través de una etiqueta específica." alt="" coords="5,5,192,32"/>
+<area shape="rect" id="node2" href="$class_image_book.html#aabacd76b211965fab12fd0a4b7772d17" title="Método para conseguir Usuarios que contengan al menos una etiqueta específica en sus Imágenes." alt="" coords="240,5,441,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Rango::contiene" name="Rango::contiene">
+<area shape="rect" id="node1" title="Método para comprobar si Rango dado esta dentro a otro o no, ya sea igual o menor a este." alt="" coords="5,31,121,57"/>
+<area shape="rect" id="node2" href="$class_rango.html#a137d37cb88ee6123878f30498b46226f" title="Método para comprobar si unas coordenas UTM pertenecen al rango (menor o igual)" alt="" coords="169,31,285,57"/>
+<area shape="rect" id="node3" href="$class_u_t_m.html#a6d39f914244391ad96564ab251af0764" title=" " alt="" coords="338,5,453,32"/>
+<area shape="rect" id="node4" href="$class_u_t_m.html#a25f69f28621fea413dc31c79ce69585e" title=" " alt="" coords="333,56,457,83"/>
+</map>

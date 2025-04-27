@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['borrar_0',['borrar',['../class_casilla.html#ac809a48ff43ab53b073b392fd9b6e554',1,'Casilla']]],
+  ['borrarimagen_1',['borrarImagen',['../class_image_book.html#a1081259e18bf1e93ad7d1992bd936ca5',1,'ImageBook']]],
+  ['buscaetiquetarepetida_2',['buscaEtiquetaRepetida',['../class_image_book.html#a051416a907a3dc679b746f8d21a0cbde',1,'ImageBook']]],
+  ['buscar_3',['buscar',['../class_casilla.html#add9a99079b9b7b7700b69a83334526f1',1,'Casilla']]],
+  ['buscaretiq_4',['buscarEtiq',['../class_usuario.html#a2c560080f412618e767969d2c41142b5',1,'Usuario']]],
+  ['buscaretiqueta_5',['buscarEtiqueta',['../class_image_book.html#aa5996834964caf7a532719f2c6d2717d',1,'ImageBook']]],
+  ['buscarimagen_6',['buscarImagen',['../class_image_book.html#aa0ddd0b46be6813d0b4b9350451f1a47',1,'ImageBook::buscarImagen()'],['../class_usuario.html#a95c1a054f4cf69dfe4bd8d91e380dff0',1,'Usuario::buscarImagen()']]],
+  ['buscarimagetilugar_7',['buscarImagEtiLugar',['../class_image_book.html#a8acf4f5c9fb4e2056d18fddad0b450e7',1,'ImageBook']]],
+  ['buscarimagetiq_8',['buscarImagEtiq',['../class_image_book.html#a51b518d582767a1a286c020641117766',1,'ImageBook']]],
+  ['buscarimaglugar_9',['buscarImagLugar',['../class_image_book.html#a623ef36ee6b30bfc38140e3256cdc352',1,'ImageBook']]],
+  ['buscarmietiqueta_10',['buscarMiEtiqueta',['../class_image_book.html#ad2b73414f0432c4ffe9723e2ef33b50b',1,'ImageBook']]],
+  ['buscarrango_11',['buscarRango',['../class_malla_regular.html#a9e0daf43a495a10fe022f0e7ac8647ef',1,'MallaRegular']]],
+  ['buscarusuario_12',['buscarUsuario',['../class_image_book.html#a55b8bc98313ecba5604fab123b1e0240',1,'ImageBook']]],
+  ['buscarusuarioetiq_13',['buscarUsuarioEtiq',['../class_image_book.html#aabacd76b211965fab12fd0a4b7772d17',1,'ImageBook']]],
+  ['buscarusuariofechaimagen_14',['buscarUsuarioFechaImagen',['../class_image_book.html#a5d67326d4725f71effc619872fd1ec64',1,'ImageBook']]],
+  ['buscarusuariosetiq_15',['buscarUsuariosEtiq',['../class_usuario.html#af01694aaa75e677c88adc4c78018854a',1,'Usuario']]],
+  ['buscarusuarlugar_16',['buscarUsuarLugar',['../class_image_book.html#a4a01f840d335eface3c446bb033b4d89',1,'ImageBook']]]
+];

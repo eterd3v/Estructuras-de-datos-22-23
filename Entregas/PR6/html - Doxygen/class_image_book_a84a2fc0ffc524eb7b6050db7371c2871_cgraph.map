@@ -1,0 +1,4 @@
+<map id="ImageBook::mostrarEstado" name="ImageBook::mostrarEstado">
+<area shape="rect" id="node1" title="Muestra por consola cuantas Imágenes, Etiquetas y Usuarios se han cargado en memoria." alt="" coords="5,5,185,32"/>
+<area shape="rect" id="node2" href="$class_malla_regular.html#a279d2a8c4f286a9c7b843d82716ba052" title="Función para sacar por consola los datos relativos a la MallaRegular." alt="" coords="233,5,401,32"/>
+</map>
